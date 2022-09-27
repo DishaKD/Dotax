@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dishal Kanishka
-- 👀 I’m interested in Devops Engineering
+- 👀 I’m interested to learn Devops 
 - 🌱 I’m student
 
 
